@@ -1,4 +1,7 @@
  Penjelasan kode
+
+
+ 
 ** 1. perulangan hingga 100 menggunakan Python **
 penjelasan:
  Kode ini merupakan program Python sederhana yang menggunakan perulangan (for) untuk iterasi dari 1 hingga 100. Di setiap iterasi, kondisi if memeriksa apakah nilai i habis dibagi 10 atau tidak (i % 10 == 0).Jika i habis dibagi 10, maka program masuk ke dalam blok if dan menggunakan perulangan (for a in range(3)) untuk mencetak nama "Esra Silvia Sihite" sebanyak 3 kali.Jika i tidak habis dibagi 10, maka program masuk ke dalam blok else dan mencetak nilai i.Dengan kata lain, setiap kali i merupakan kelipatan 10, program akan mencetak nama tiga kali, dan untuk nilai i lainnya, program akan mencetak nilai i itu sendiri. Program ini akan mencetak angka dari 1 hingga 100, sambil mencetak nama pada setiap kelipatan 10.
